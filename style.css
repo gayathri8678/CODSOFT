@@ -1,0 +1,51 @@
+
+    /* override browser defaults */
+    body {
+        background-image: url('black-golden-royal-luxury-background-landing-page-free-vector.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    
+
+  
+  
+  .clearfix {
+    overflow: auto;
+    border: 1px solid none;
+    background-color: none;
+    color:antiquewhite;
+  }
+  
+  .center {
+    padding: 10px;
+    /* vertical centering of <h1> */
+    text-align: center;
+    /* horizontal centering of <h1> */
+  }
+  
+  .logo {
+    position: absolute;
+    left: 380px;
+    top: 60px;
+    right:0px;
+    border: 1px solid none;
+    z-index: 1;
+    /* Make the logo and <h1> overlap */
+  }
+  .about
+  {
+    overflow: auto;
+    border: 1px solid none;
+    background-color: none;
+    color:aliceblue;
+    
+  }
+  .register
+  {
+    color:red;
+    
+  }
+  h1{
+    font-size: 50px;
+  }
